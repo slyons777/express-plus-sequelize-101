@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "qfwrwajb",
+    "password": "A7ACjZrk9ArJTgowZljC_cPOZgUu72tE",
+    "database": "qfwrwajb",
+    "host": "suleiman.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
