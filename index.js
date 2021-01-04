@@ -150,7 +150,7 @@ app.get('/list/:id/delete', (req, res) => {
 });
 
 app.post('/list/:id/delete', (req, res) => {
-  // remove specific pet
+  // show removed specific pet
   Pets.findAll()
     .then(pets => {
       // res.json(pets);
